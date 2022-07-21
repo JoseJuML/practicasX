@@ -1,7 +1,0 @@
-hola que tal esta es una prueba
-despues vamos a poner el segundo texto
-basicamente hay dos tipos de programacion:
-el imperativo.- constituido por pasos o etapas
-el declarativo.- el que lanza un resultado
-
-en resumen existen varias formas de programar de las cuales estas dos son las mas importantes
