@@ -6,3 +6,8 @@ ok let's go and make the practice:
 --------------------------------------------------
 el principal codigo que se usa se llama python 3.10 y las practicas seran usando la nube de azure
 continuara...
+
+** menu **
+
+* pagina web con wordpress
+* maquina virtual sobre otra maquina virtual
