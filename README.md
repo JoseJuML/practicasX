@@ -15,3 +15,7 @@ continuara...
 
 ------------------------------------------------
 la primera practica es usar wordpress en la que se creara una nueva pagina web.
+
+primeras notas a nombrar son:
+-se tiene que tener una cuenta de microsoft azure
+-se debe tener algun codigo escondido por ahi
